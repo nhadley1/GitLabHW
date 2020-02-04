@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 "Bob likes cats"
+=======
+"Alice likes cats"
+>>>>>>> 95da8c7a4436c42a2d10a4e819aa3de2abb4ca41
 "Meow"
